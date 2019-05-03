@@ -1,0 +1,2 @@
+# Shit-Script
+Masternode Script
